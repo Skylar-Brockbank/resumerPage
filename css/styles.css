@@ -1,0 +1,30 @@
+body {
+  font-family: Verdana, Tahoma, sans-serif;
+}
+
+#hero {
+  background-color: rgb(37, 82, 124);
+  color: white;
+  padding: 1em;
+
+}
+
+.outCard{
+  margin-top: 1em;
+  border: 1em double rgb(182, 182, 182);
+}
+
+.card{
+  padding: 1em;
+}
+.style{
+  height: 10em;
+}
+
+/* .about-me{
+
+}
+
+.contact{
+
+} */
